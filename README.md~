@@ -2,13 +2,13 @@
 A simple sfml snake game
 
 ## requirements
-libsfml-dev\
-cmake\
+libsfml-dev\n
+cmake
 g++
 
 ## compile
-git clone https://github.com/shenoisz-dev/sfml-snake\
-cd sfml-snake\
+git clone https://github.com/shenoisz-dev/sfml-snake
+cd sfml-snake
 make
 
 ## only run
