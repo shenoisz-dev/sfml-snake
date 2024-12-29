@@ -3,7 +3,7 @@ A simple sfml snake game
 
 ## requirements
 libsfml-dev\
-cmake\
+make\
 g++
 
 ## compile
