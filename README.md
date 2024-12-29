@@ -7,7 +7,7 @@ cmake\
 g++
 
 ## compile
-git clone https://github.com/shenoisz-dev/sfml-snake\
+git clone https://github.com/shenoisz-dev/sfml-snake \
 cd sfml-snake\
 make
 
